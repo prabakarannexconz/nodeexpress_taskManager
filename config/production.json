@@ -1,0 +1,16 @@
+{
+    "app": {
+        "debug": true,
+        "sslType": "http",
+        "port": 3000,
+        "socket": 4000
+    },
+    "db": {
+        "connectionString":"mongodb://localhost:27017/"
+    },
+    "blockChainURL": "",
+    "crossDomains": [
+
+    ],
+    "blockDuration": 1
+}
